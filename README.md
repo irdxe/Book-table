@@ -10,7 +10,7 @@ This project was created as part of the freeCodeCamp HTML curriculum to practice
 
 https://irdxe.github.io/Book-table/
 
-## How to view
+## How to run locally
 
 Clone the repository:
 1. git clone https://github.com/irdxe/Book-table.git
