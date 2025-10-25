@@ -6,6 +6,10 @@ A simple table of books built in HTML to understand the proper use of the table 
 
 This project was created as part of the freeCodeCamp HTML curriculum to practice table elements and basic structure.
 
+## Demo
+
+https://irdxe.github.io/Book-table/
+
 ## How to view
 
 Clone the repository:
